@@ -1,7 +1,14 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+<div align="center">
+  <img src="https://www.justice.gov/d9/styles/coh_medium/public/2025-03/doj-seal-257x257.png?itok=gCU0Ex9z" 
+       alt="DOJ Seal" 
+       width="128" 
+       height="128">
+</div>
+
 # Inteligencia Artificial
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Inteligencia Artificial (CEIA - FIUBA). 
+Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Inteligencia Artificial. 
 
 Para revisar los criterios de aprobación, ver el [documento correspondiente](CriteriosAprobacion.md).
 
