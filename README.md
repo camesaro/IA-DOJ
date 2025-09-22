@@ -5,6 +5,7 @@
        alt="DOJ Seal" 
        width="128" 
        height="128">
+  <p><em>Recurso educativo diseñado por OPDAT-DOJ</em></p>
 </div>
 
 # Inteligencia Artificial
